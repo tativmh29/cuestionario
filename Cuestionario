@@ -1,0 +1,77 @@
+Santiago Vazquez Mellado 11º1
+Arturo Torres 11º1
+
+Preguntas:
+
+1.En tus palabras, ¿Qué es internet
+
+Una red que dconecta a todos los dispositivos compatibles
+
+2.Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+
+Son 3:
+
+Electricidad: Podemos pasar o no pasar electricidad a travez de ciertos materiales e interpretar los periodos en los que pasa o no pasa como 1 y 0.
+Cables de ethernet: Son el medio por el cual el internet funciona cuando hablamos de canles, son baratos pero pierden señal rápido.
+
+Luz: Podemos mandar señales de luz a traves de cables de fibra optica
+Cables de fibra optica: Están diseñados a partir de un material especial mediante el cual podemos reflejar hazes de luz para mandar Bits. Su señal no cae y son extremadamente rápidos. Es muy cara y dificiñ de trabajar.
+
+Hodas electromagnéticas: Podemos mandar señales de radio en frecuencias específicas para hacer bits. Su radio no funciona demasiado bien a largas distancias.
+
+
+3.¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+
+La IP es la direrccion de una computadora, es asi como los dispositivos se comunican con otros 
+El DNS asocia los nombres como www.ejemplo.com con las IP correspondientes, lo0s dispositivos la usan para buscar nombres y obtener el IP que es usada para conectarse a nuetro dispositivo a nuestro destino en internet.
+
+4.Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+
+El protocolo mediante el cual transmitimos y recibimos información desde el internet se llama TCP (Trasnmision Control Protocol).
+Spotify primero rompe la canción en pedacitos llamados packets y los manda a traves de routers (El poli de trafico pero del internet) hasta que 
+llegue a tu dispositivo, una vez lleguen todos los packets (lo cual el TCP verifica) los ensambla en el orden en el que tienen que ir y 
+listo!!!, tienes una canción.
+
+
+5.Describe los protocolos que existen en internet, en específico HTTP y HTML
+
+HTTP es el proceso o protocolo de comunicacion que permite las transferencias de informacion a trves de archivos en internet.
+El HTML es el codigo que se utiliza para estructurar y desplegar una pagina y sus contenidos.
+
+
+
+6.En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+
+Para empezar por la encripción, encripción es el protocolo mediante el cual tomamos cualquier mensaje que queramos mandar y mezclamos su contenido.
+Desencripción es el protocolo opuesto, es el protocolo mediante el cual tomamos un mensaje mezclado y lo volvemos a organizar como tendría que ir.
+Uno de los primeros sistemas de encripción de los cuales sabemos es el del cesar. El cesar moveria cada letra cierto número de pociciones en el alfabeto
+lo cual mezclaríal el mensaje, el número de lugares que se movio cada letra es la clave para desifrar el mensaje y por lo tanto la llave.
+
+Las computadoras modernas toman este metódo, pero cada letra se mueve una distinta cantidad y la clave es de 256 distintos digitos posibles. Eso significa
+que toma cantidades ridículas de tiempo encontrar la clave que hace que el mensaje haga sentido.
+
+Otra cosa que hacen las computadoras es usar llaves públicas y privadas. Una llave publica la puede tener y usar cualquiera y con eso puede encriptar sus mensajes
+pero para leerlos requieres una llave privada la cual no se la da a la gente.
+
+
+7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet
+
+Hacer uso de contraseñas que sean dificiles de adivinar haciendo uso de numeros y caracteres 
+revisar la direccion de la pagina y que esta sea confiable 
+instalar actualizaciones de seguridad regularmenrte
+No instalar software que no entendemos o no confiemos.
+
+Tambien podemos no compartir nuestras contraseñas: 1. Con personas e las que no confiemos. y 2. En redes sociales.
+Redes sociales son la forma mas sencilla de encontrar las contraseñas o dirrectamente informacuon personaol de gente que no 
+cuidan de sus cosas.
+
+
+8.¿Cómo funciona la búsqueda de google?
+Primero, un algoritmo llamado la araña va y toma una página web, recolecto información sobre dicha página y sigue cualquier hyperlink que tenga.
+Va a hacer esto con todas las páginas del internet, luego va a hacer un Index con la información que encontro en cada página web. Cuando tu buscas
+algo en google o bing o firefox, estos toman las palabras que pusiste en el buscador y buscan coincidencias con su Index.
+
+Una vez que tenga todos los resultados dentro de su Index, va a tomar las palabras y va a checar si son el Titulo del sitio web, o si esas mismas palabras
+aparecen en orden dentro de la página. Esto ayuda a encontrar los sitios y páginas con la información mas relevante respecto a la busquedaque hiciste.
+
+Otra cosa que hace el buscador es que busca si una página es referenciada por varios sitios, lo que influiria en saber si su contenido es interesante
